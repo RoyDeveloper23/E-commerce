@@ -3,13 +3,13 @@ const Productos = [
   // Abrigos
   {
     id: "abrigo-01",
-    titulo: "Abrigo 01",
+    titulo: "abrigo-01",
     imagen: "./img/abrigos/01.jpg",
     categoria: {
       nombre: "Abrigos",
       id: "abrigos",
     },
-    precio: 35,
+    precio: 8,
   },
   {
     id: "abrigo-02",
@@ -41,26 +41,27 @@ const Productos = [
     },
     precio: 27,
   },
+
   // Camisetas
   {
     id: "camiseta-01",
-    titulo: "Camiseta 01",
+    titulo: "camiseta-01",
     imagen: "./img/camisetas/01.jpg",
     categoria: {
       nombre: "Camisetas",
       id: "camisetas",
     },
-    precio: 15,
+    precio: 11,
   },
   {
     id: "camiseta-02",
-    titulo: "Camiseta 02",
+    titulo: "camiseta-02",
     imagen: "./img/camisetas/02.jpg",
     categoria: {
       nombre: "Camisetas",
       id: "camisetas",
     },
-    precio: 17,
+    precio: 10,
   },
   {
     id: "camiseta-03",
@@ -125,7 +126,7 @@ const Productos = [
   // Pantalones
   {
     id: "Pantalon-01",
-    titulo: "Pantalón 01",
+    titulo: "Pantalon-01",
     imagen: "./img/pantalones/01.jpg",
     categoria: {
       nombre: "Pantalones",
